@@ -1,3 +1,5 @@
+import { Navbar } from "./layouts/Navbar";
+
 export function App() {
-  return <div>Teste</div>;
+  return <Navbar />;
 }
